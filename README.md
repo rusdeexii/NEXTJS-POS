@@ -4,7 +4,7 @@ This repository will host the code for both the frontend and backend of a POS (P
 
 ## Project Structure
 
-- `frontend/` - (To be added) This folder will contain the frontend code for the POS system.
+- `frontend/` - ...
 - `BackOffice-api/` - The backend API responsible for handling business logic, data processing, and integrations.
 
 ## Backend API
